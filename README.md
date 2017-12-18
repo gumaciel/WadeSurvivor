@@ -2,7 +2,6 @@
 
 The main purposes of this project was to improve our programming skills, lua script studies and was used as evaluation in the discipline of software engineering.
 
-# Running:
 
 # Windows:
 
