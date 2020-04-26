@@ -6,7 +6,7 @@ The main purposes of this project was to improve our programming skills, lua scr
 # Windows:
 
 Option 1: 
-Double click the "Wade Survivor[ALPHA].love" file, you have to install the LÖVE Framework.
+Double click the "Wade Survivor[ALPHA].love" file, you have to install the LÃ–VE Framework.
 
 Option 2:
 Double-click the "Wade Survivor[ALPHA].exe" file.
@@ -27,6 +27,6 @@ https://love2d.org/wiki/Getting_Started
 
 # Authors:
 
-Athos Rodrigues,
-Gustavo Maciel,
+[Athos Rodrigues](https://github.com/athosr),
+[Gustavo Maciel](https://github.com/gustavottc),
 Polliane Thaliny.
